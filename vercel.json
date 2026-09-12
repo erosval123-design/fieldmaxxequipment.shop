@@ -1,8 +1,13 @@
 {
   "rewrites": [
+    { "source": "/cart", "destination": "/cart.html" },
+    { "source": "/checkout", "destination": "/checkout.html" },
+    { "source": "/success", "destination": "/success.html" },
     { "source": "/dashboard", "destination": "/dashboard.html" },
-    { "source": "/admin",     "destination": "/admin.html" },
-    { "source": "/cart",      "destination": "/cart.html" },
-    { "source": "/checkout",  "destination": "/checkout.html" }
+    { "source": "/admin", "destination": "/dashboard.html" },
+    { "source": "/fx14g-mini-excavator", "destination": "/fx14g-mini-excavator.html" },
+    { "source": "/fx10c-mini-excavator", "destination": "/fx10c-mini-excavator.html" },
+    { "source": "/fxd902-diesel-excavator", "destination": "/fxd902-diesel-excavator.html" },
+    { "source": "/fxcab-enclosed-excavator", "destination": "/fxcab-enclosed-excavator.html" }
   ]
 }
